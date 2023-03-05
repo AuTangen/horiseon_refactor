@@ -11,9 +11,9 @@ N/A
 
 ## Usage
 
-To view the site, click the following link: [Horiseon Social Solutions](https://githubdeploylinkhere)
+To view the site, click the following link: [Horiseon Social Solutions](https://autangen.github.io/horiseon_refactor/)
 
-![here is a preview of the site](assets/images/screenshot.png)
+Here is a preview of the site: ![Horiseon](assets/images/screenshot.png)
 
 ## Credits
 
